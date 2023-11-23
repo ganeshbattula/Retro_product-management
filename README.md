@@ -1,4 +1,5 @@
 # Retro_product-management
+For Java code I named as "demo"
 I Used Postman to Create a New Retrospective
 Method: POST
 URL: http://localhost:8083/api/retrospectives
@@ -58,4 +59,5 @@ Select "Run As" > "JUnit Test".
 
 
 For Frontend product We have to create a project by using npx create-react-app product-management
-and just the main code is in two parts one is app.css and one more is app.js then we you can run by npm start it will connect to local sever 3000
+and just the main code is in two parts one is app.css and one more is app.js then you can run it by npm start it will connect to local server 3000 
+and I implemented a button called "add new product" so you can see fields to add the new item below the button
