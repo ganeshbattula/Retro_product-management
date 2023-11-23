@@ -1,0 +1,51 @@
+
+.product-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.product {
+  background-color: #f0f0f0;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.special {
+  background-color: #ffff99;
+}
+
+button {
+  margin-right: 5px;
+  padding: 5px 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.modal {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+input[type='text'],
+input[type='number'],
+input[type='date'],
+select {
+  padding: 5px;
+  margin: 5px 0;
+  display: block;
+  width: 100%;
+}
+
+label {
+  margin-top: 10px;
+}
